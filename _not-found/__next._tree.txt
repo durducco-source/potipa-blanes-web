@@ -1,0 +1,4 @@
+:HL["/potipa-blanes-web/_next/static/chunks/3v-xga795pi1j.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"NUB27N1542bgNHWEs5Xrw","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
